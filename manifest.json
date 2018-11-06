@@ -1,0 +1,15 @@
+{
+  "name": "www.kneehit.com",
+  "short_name": "www.kneehit.com",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#3D3D3D",
+  "background_color": "#3D3D3D",
+  "author": "Nihit Save",
+  "description": "Personal Website",
+  "related_applications": [
+    {
+      "platform": "web"
+    }
+  ]
+}
