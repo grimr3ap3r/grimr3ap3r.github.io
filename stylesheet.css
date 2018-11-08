@@ -14,7 +14,7 @@ html *{outline:none}html .icon{flex-shrink:0}html .icon.icon-terminal{background
 
 .column {
     flex: 50%;
-    padding: 30px;
+    padding: 10px;
     height: 300px; /*Only for demonstration */
 }
 html .icon.icon-directory{background-image:url(img/icon/directory.png)}
