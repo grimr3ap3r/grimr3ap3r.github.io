@@ -112,6 +112,9 @@ html .screen .desktop .window-container .window#directory .content .panel-contai
 html .screen .desktop .window-container .window#directory .content .panel-container .panel.panel-preview .property-container .property:before{font-size:.8rem;min-width:4rem;color:#999;margin-right:.5rem;text-align:right}
 html .screen .desktop .window-container .window#directory .content .panel-container .panel.panel-preview .property-container .property.property-name:before{content:'Name'}
 html .screen .desktop .window-container .window#directory .content .panel-container .panel.panel-preview .property-container .property.property-location:before{content:'Location'}
+html .screen .desktop .window-container .window#directory .content .panel-container .panel.panel-preview .property-container .property.property-email:before{content:'Email'}
+html .screen .desktop .window-container .window#directory .content .panel-container .panel.panel-preview .property-container .property.property-linkedin:before{content:'LinkedIn'}
+html .screen .desktop .window-container .window#directory .content .panel-container .panel.panel-preview .property-container .property.property-address:before{content:'Address'}
 html .screen .desktop .window-container .window#directory .content .panel-container .panel.panel-preview .property-container .property.property-date:before{content:'Date'}
 html .screen .desktop .window-container .window#directory .content .panel-container .panel.panel-preview .property-container .property.property-gpa:before{content:'GPA'}
 html .screen .desktop .window-container .window#directory .content .panel-container .panel.panel-preview .property-container .property.property-major:before{content:'Major'}
